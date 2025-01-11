@@ -1,6 +1,7 @@
 # TlakMonitor
+ ![logo_prog2](https://github.com/user-attachments/assets/055a751a-2bd9-4bd1-8a18-235465112349)<br>
 
-Monitoring krevního tlaku
+
 
 Tento program slouží k zaznamenávání a správě měření krevního tlaku, pulzu a podávání léků. Dále umožňuje export naměřených dat do souboru pro další zpracování nebo analýzu. Jedná se o ukázkový projekt vhodný pro správu jednoduchých zdravotních dat.
 

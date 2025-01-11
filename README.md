@@ -44,7 +44,7 @@ Nainstaluj požadované knihovny:
 
 ```pip install -r requirements.txt```<br>
 
-(Poznámka: Pokud requirements.txt není v repozitáři, můžeš vytvořit soubor s obsahem pandas a matplotlib.)<br>
+
 
 # Použití
 

@@ -3,7 +3,10 @@
 
 
 
-Tento program slouží k zaznamenávání a správě měření krevního tlaku, pulzu a podávání léků. Dále umožňuje export naměřených dat do souboru pro další zpracování nebo analýzu. Jedná se o ukázkový projekt vhodný pro správu jednoduchých zdravotních dat.
+Tento program vzniknul puivodne k monitorovani 
+podavani NEBILETU a jeho vliv na stav pacientky ,  velmi se mi osvedcil .  Je vyborne pro naslednou dokumentaci -- pokud bude i jinemu slouzit, 
+treba jako inspirace atd ...budu rad
+Slouží k zaznamenávání a správě měření krevního tlaku, pulzu a podávání léků. Dále umožňuje export naměřených dat do souboru pro další zpracování nebo analýzu. Jedná se o ukázkový projekt vhodný pro správu jednoduchých zdravotních dat.
 
 # Funkce programu
 

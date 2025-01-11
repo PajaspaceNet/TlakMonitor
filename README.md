@@ -4,13 +4,13 @@ Monitoring krevního tlaku
 
 Tento program slouží k zaznamenávání a správě měření krevního tlaku, pulzu a podávání léků. Dále umožňuje export naměřených dat do souboru pro další zpracování nebo analýzu. Jedná se o ukázkový projekt vhodný pro správu jednoduchých zdravotních dat.
 
-Funkce programu
+# Funkce programu
 
 Záznam krevního tlaku, pulzu a podaného léku: Program umožňuje snadno zadávat naměřené hodnoty.
 
 Správa poznámek: Možnost přidat samostatné poznámky k datům.
 
-Export dat:
+# Export dat:
 
 Export všech záznamů do textového souboru.
 
@@ -20,7 +20,7 @@ Automatické vytvoření záložního souboru při exportu.
 
 Práce s CSV souborem: Program ukládá a načítá záznamy z CSV souboru.
 
-Požadavky
+# Požadavky
 
 Pro spuštění programu je potřeba mít nainstalovaný:
 
@@ -32,26 +32,26 @@ pandas
 
 matplotlib (pokud budeš přidávat vizualizace v budoucnu)
 
-Instalace
+# Instalace
 
 Klonuj tento repozitář:
 
-git clone https://github.com/tvoje-username/monitoring-krevniho-tlaku.git
-cd monitoring-krevniho-tlaku
+```git clone https://github.com/tvoje-username/monitoring-krevniho-tlaku.git```<br>
+```cd monitoring-krevniho-tlaku```<br>
 
 Nainstaluj požadované knihovny:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```<br>
 
-(Poznámka: Pokud requirements.txt není v repozitáři, můžeš vytvořit soubor s obsahem pandas a matplotlib.)
+(Poznámka: Pokud requirements.txt není v repozitáři, můžeš vytvořit soubor s obsahem pandas a matplotlib.)<br>
 
-Použití
+# Použití
 
 Spusť program:
 
-python tlak_monitor.py
+```python tlak_monitor.py```
 
-Nabídka programu:
+# Nabídka programu:
 
 Zadání měřeníUmožňuje zadat systolický a diastolický tlak, puls, podaný lék a případnou poznámku.
 
@@ -65,7 +65,8 @@ Export libovolného počtu měřeníUživatel zadá počet posledních měření
 
 Ukončení programuPři ukončení program automaticky uloží všechna data do souboru tlak_data.csv.
 
-Struktura CSV souboru
+
+# Struktura CSV souboru
 
 CSV soubor obsahuje následující sloupce:
 
@@ -84,7 +85,7 @@ Druh léku: Název podaného léku.
 Poznámka: Jakýkoli dodatečný komentář.
 
 Příklad exportovaných dat
-
+'''
 Eva
 Rodné číslo: XXXXXXX
 Vývoj tlaku - Bilet či Nebilet to je oč tu běží ...:
@@ -96,13 +97,14 @@ Datum a čas             Sys   Dias  Puls  Lék podán  Druh léku   Poznámka
 
 Datum výpisu: 2025-01-11_12-34-56
 Programmed by: Pavel
+'''
 
-Struktura projektu
+# Struktura projektu ktera se vytvori automaticky
 
 ![tlak_monitor](https://github.com/user-attachments/assets/67e62761-975f-40f9-b2d7-e3e2cb2cf7a7)
 
 
-Možná vylepšení
+# Možná vylepšení / ToDo
 
 Přidání vizualizace dat pomocí knihovny matplotlib (graf vývoje krevního tlaku).
 
@@ -112,6 +114,6 @@ Lokalizace programu (např. anglická verze).
 
 Webové nebo mobilní rozhraní.
 
-Licence
+# Licence
 
 Tento projekt je k dispozici pod licencí MIT. Klidně si jej uprav, použij nebo sdílej

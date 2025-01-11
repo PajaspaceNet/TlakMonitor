@@ -70,9 +70,9 @@ Export libovolného počtu měřeníUživatel zadá počet posledních měření
 Ukončení programuPři ukončení program automaticky uloží všechna data do souboru tlak_data.csv.
 
 
-# Struktura CSV souboru
+## Struktura CSV souboru
 
-CSV soubor obsahuje následující sloupce:
+*CSV soubor obsahuje následující sloupce:*
 
 Datum a čas: Datum a čas měření.
 

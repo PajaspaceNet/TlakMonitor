@@ -85,7 +85,7 @@ Druh léku: Název podaného léku.
 Poznámka: Jakýkoli dodatečný komentář.
 
 Příklad exportovaných dat
-'''
+```
 Eva
 Rodné číslo: XXXXXXX
 Vývoj tlaku - Bilet či Nebilet to je oč tu běží ...:
@@ -97,7 +97,7 @@ Datum a čas             Sys   Dias  Puls  Lék podán  Druh léku   Poznámka
 
 Datum výpisu: 2025-01-11_12-34-56
 Programmed by: Pavel
-'''
+```
 
 # Struktura projektu ktera se vytvori automaticky
 

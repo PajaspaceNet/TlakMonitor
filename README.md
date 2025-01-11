@@ -57,13 +57,13 @@ Spusť program:
 
 # Nabídka programu:
 
-Zadání měřeníUmožňuje zadat systolický a diastolický tlak, puls, podaný lék a případnou poznámku.
+Zadání měření - Umožňuje zadat systolický a diastolický tlak, puls, podaný lék a případnou poznámku.
 
-Přidání poznámkyPřidává samostatnou poznámku bez měření.
+Přidání poznámky - Přidává samostatnou poznámku bez měření.
 
-Export všech datExportuje všechna zaznamenaná data do souboru export_tlak/tlak_data_export_<datum>.txt a vytvoří záložní kopii.
+Export všech dat - Exportuje všechna zaznamenaná data do souboru export_tlak/tlak_data_export_<datum>.txt a vytvoří záložní kopii.
 
-Export posledních 10 měřeníExportuje posledních 10 záznamů.
+Export posledních 10 měření - Exportuje posledních 10 záznamů.
 
 Export libovolného počtu měřeníUživatel zadá počet posledních měření, která budou exportována.
 
